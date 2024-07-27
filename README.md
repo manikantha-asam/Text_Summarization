@@ -15,6 +15,7 @@ The application allows users to summarize content from YouTube videos or website
 
 - Summarize content from YouTube videos or websites.
 - Use the Groq API with the Gemma model for summarization.
+  `You can obtain your API key from the [Groq API Keys page](https://console.groq.com/keys).`
 - Built with Streamlit for a user-friendly web interface.
 
 ## Requirements
