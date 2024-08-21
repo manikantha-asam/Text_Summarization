@@ -55,7 +55,8 @@ You can install the necessary dependencies using `pip`.
 ![Screenshot (1039)](https://github.com/user-attachments/assets/593525da-ab97-4912-91eb-bc91f71c7c19)
 
 
-![Screenshot (1040)](https://github.com/user-attachments/assets/6b7cbfe5-67c0-47cc-808f-cde6c61deab8)
+![image](https://github.com/user-attachments/assets/bdbb998e-f79a-4321-b28a-9e6b41ef5844)
+
 
 
 
